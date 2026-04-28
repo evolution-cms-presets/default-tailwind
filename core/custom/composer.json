@@ -1,0 +1,11 @@
+{
+  "name": "evolution-cms-presets/default-tailwind-project-layer",
+  "description": "Default Tailwind project layer for Evolution CMS preset installs.",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "EvolutionCMS\\DefaultTailwind\\": "packages/default-tailwind/src/"
+    }
+  }
+}
