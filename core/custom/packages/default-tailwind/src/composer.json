@@ -1,0 +1,13 @@
+{
+  "name": "evolution-cms-presets/default-tailwind",
+  "description": "Default Tailwind Evolution CMS preset package.",
+  "type": "library",
+  "license": "MIT",
+  "extra": {
+    "laravel": {
+      "providers": [
+        "EvolutionCMS\\DefaultTailwind\\DefaultTailwindServiceProvider"
+      ]
+    }
+  }
+}
